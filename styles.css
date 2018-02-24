@@ -1,0 +1,86 @@
+<<<<<<< HEAD
+/* add your CSS here */
+body {
+	background-image: url("images/598770.jpg");
+	background-size: cover;
+	font-family: sansherif;
+}
+
+.leu {
+	padding: 0 0 1em 0em;
+}
+
+.interesant {
+	font-style: italic;
+}
+
+.lista {
+	font-weight: bold;
+}
+
+.tip_lista {
+	list-style-type: none;
+	padding: 0 0 0 0;
+}
+
+.incadrare {
+	width: 400px;
+	margin: 0 auto 0 auto;
+	background-color: rgba(255,255,255,0.7);
+	border-width: medium;
+	border-style: solid; 
+	border-color:		#F0F8FF;
+	box-shadow: 5px 5px 3px 3px #F0FFFF;
+	padding: 1em 1em 1em 1em;
+    border-radius: 10px;
+}
+
+.incadrare_sec {
+	border-width: medium;
+	border-style: solid;
+	border-color: 	#F0F8FF;
+	padding: 0 1em 0 1em;
+=======
+/* add your CSS here */
+body {
+	background-image: url("images/598770.jpg");
+	background-size: cover;
+	font-family: sansherif;
+}
+
+.leu {
+	padding: 0 0 1em 0em;
+}
+
+.interesant {
+	font-style: italic;
+}
+
+.lista {
+	font-weight: bold;
+}
+
+.tip_lista {
+	list-style-type: none;
+	padding: 0 0 0 0;
+}
+
+.incadrare {
+	width: 400px;
+	margin: 0 auto 0 auto;
+	background-color: rgba(255,255,255,0.7);
+	border-width: medium;
+	border-style: solid; 
+	border-color:		#F0F8FF;
+	box-shadow: 5px 5px 3px 3px #F0FFFF;
+	padding: 1em 1em 1em 1em;
+    border-radius: 10px;
+}
+
+.incadrare_sec {
+	border-width: medium;
+	border-style: solid;
+	border-color: 	#F0F8FF;
+	padding: 0 1em 0 1em;
+>>>>>>> a3511eff3c53a2603cfc908a3a0a8cc8fd62060a
+}
